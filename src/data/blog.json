@@ -1,0 +1,54 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "blogCategory": "News",
+            "blogTitle" : "BitCoin crashes and down for 3 months",
+            "slug": "",
+            "postedOn": "June 19, 2020",
+            "author": "Unknown",
+            "blogImage": "https://image.cnbcfm.com/api/v1/image/106885587-16214575182021-05-19t203912z_144465080_rc28jn9cpt2v_rtrmadp_0_crypto-currency-bitcoin.jpeg",
+            "blogText": "Bitcoin last 3 months low"
+        },
+        {
+            "id": 2,
+            "blogCategory": "News",
+            "blogTitle" : "BitCoin crashes and down for 3 months",
+            "slug": "",
+            "postedOn": "June 19, 2020",
+            "author": "Unknown",
+            "blogImage": "https://image.cnbcfm.com/api/v1/image/106885587-16214575182021-05-19t203912z_144465080_rc28jn9cpt2v_rtrmadp_0_crypto-currency-bitcoin.jpeg",
+            "blogText": "Bitcoin last 3 months low"
+        },
+        {
+            "id": 3,
+            "blogCategory": "News",
+            "blogTitle" : "BitCoin crashes and down for 3 months",
+            "slug": "",
+            "postedOn": "June 19, 2020",
+            "author": "Unknown",
+            "blogImage": "https://image.cnbcfm.com/api/v1/image/106885587-16214575182021-05-19t203912z_144465080_rc28jn9cpt2v_rtrmadp_0_crypto-currency-bitcoin.jpeg",
+            "blogText": "Bitcoin last 3 months low"
+        },
+        {
+            "id": 4,
+            "blogCategory": "News",
+            "blogTitle" : "BitCoin crashes and down for 3 months",
+            "slug": "",
+            "postedOn": "June 19, 2020",
+            "author": "Unknown",
+            "blogImage": "https://image.cnbcfm.com/api/v1/image/106885587-16214575182021-05-19t203912z_144465080_rc28jn9cpt2v_rtrmadp_0_crypto-currency-bitcoin.jpeg",
+            "blogText": "Bitcoin last 3 months low"
+        },
+        {
+            "id": 5,
+            "blogCategory": "News",
+            "blogTitle" : "BitCoin crashes and down for 3 months",
+            "slug": "",
+            "postedOn": "June 19, 2020",
+            "author": "Unknown",
+            "blogImage": "https://image.cnbcfm.com/api/v1/image/106885587-16214575182021-05-19t203912z_144465080_rc28jn9cpt2v_rtrmadp_0_crypto-currency-bitcoin.jpeg",
+            "blogText": "Bitcoin last 3 months low"
+        }
+    ]
+}
